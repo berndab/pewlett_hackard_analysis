@@ -19,3 +19,8 @@
 |                                         | analysis.retiring_employees_count_by_title.csv | count of retiring employees by title      |
 |                                         | analysis.retiring_employees_titles.csv         | unique list of titles of the retiring employees |
 |                                         | analysis.employee_mentorship_candidates.csv    | List of employees eligible for the mentorship program|
+
+
+## Database Entity Relationship Diagram
+
+<img src="https://github.com/berndab/pewlett_hackard_analysis/blob/master/EmployeeDB.ERD.png" />
