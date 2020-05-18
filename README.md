@@ -49,7 +49,7 @@ The analysis shows that number of retiring employees from the company is 90,389.
 | Senior Staff        | 28255 |
 | Senior Engineer     | 29414 |
 
-## Limitations and Further Analysis
+## Retiring Employees Analysisv Limitations and Further Analysis
 
 The analysis does not look at the percentage of the company workforce that is retiring nor does it look at the percentage of each department that had members retiring. For instance, there are only two managers retiring while there are 29,414 senior engineers that will be retiring. Two managers retiring seems like it would have minimum impact on the company or any department while 29,414 senior engineers retiring can have a major impact of at least some departments. Knowing what departments would be most affected by retirement by calculating the percentage of each department’s employees who will retire would give critical information to management.  Management then could prioritize the implementation of the mentoring program for these department first to minimize the effects on company productivity of losing the retiring employees. 
 
@@ -57,11 +57,11 @@ The analysis does not look at the percentage of the company workforce that is re
 
 The query developed to generate the data set of employee candidates for the mentorship program included employees title and department information and used the birth date of employees to determine those that would be eligible. The from_date for the title table and the department table was set to '9999-01-01' so the query data would include the employee’s current title and department. 
 
-## Mentorship Program Analysis Res
+## Mentorship Program Analysis Results
 
 The analysis showed that only 1549 employees were eligible for the mentorship program.
 
-## Limitations and Further Analysis
+## Mentorship Program Analysis Limitations and Further Analysis
 
 1549 employees in the mentorship program are not nearly enough since over 90,389 employees are due to retire. The mentorship program eligibility needs to be rethought to include many more remaining employees if the program is going to be successful in replacing the productivity and skills that will be lost to the company due to the retiring employees
 
